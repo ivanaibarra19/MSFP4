@@ -92,12 +92,8 @@ $$
 
 ### Diagrama biológico en BioRender
 
-**Espacio reservado para insertar el diagrama biológico del sistema endócrino.**
+<img width="1980" height="1368" alt="image" src="https://github.com/user-attachments/assets/5e54b4aa-e495-41b9-9483-227c7b2ae280" />
 
-<!-- Al tener la imagen, súbela a la misma carpeta de este README con el nombre biorender_endocrino.png y elimina los delimitadores de comentario de la siguiente línea. -->
-<!-- ![Diagrama biológico del sistema endócrino](biorender_endocrino.png) -->
-
-**Figura 1.** Analogía entre el estímulo para la secreción hormonal, su transporte, el almacenamiento temporal y la respuesta del tejido diana. El diagrama deberá relacionar estos procesos con Ve(t), Fe(t), R1, C, L, R2, Fs(t) y Vs(t).
 
 ## Desarrollo del modelo
 
