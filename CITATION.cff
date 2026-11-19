@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 4: Modelado y control del sistema endócrino'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ivana
+    family-names: Ibarra
+    email: l23210709@tectijuana.edu.mx
+    affiliation: TecNM/ IT Tijuana
+repository-code: 'https://github.com/ivanaibarra19/MSFP4'
+keywords:
+  - Sistema endócrino
+  - Circuito equivalente
+  - Kirchhoff
+  - Modelado fisiológico
+  - PID
+  - Simulacion
+license: BSD-2-Clause
+date-released: '2026-11-18'
