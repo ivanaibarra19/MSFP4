@@ -1,10 +1,11 @@
-# Práctica 4 | Sistema endócrino: representación eléctrica y análisis
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ivanaibarra19/MSFP4)
+# Práctica 4 | Modelado y control del sistema endócrino
 
 ## Datos académicos
 
-**Estudiante:** [Nombre completo de la compañera]  
-**Número de control:** [Número de control]  
-**Correo institucional:** [Correo institucional]  
+**Estudiante:** Ibarra Monroy Ivana Valeria
+**Número de control:** 23210709 
+**Correo institucional:** l23210709@tectijuana.edu.mx
 **Carrera:** Ingeniería Biomédica  
 **Materia:** Modelado de Sistemas Fisiológicos  
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana
