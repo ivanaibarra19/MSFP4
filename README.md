@@ -4,10 +4,15 @@
 ## Datos académicos
 
 **Estudiante:** Ibarra Monroy Ivana Valeria
+
 **Número de control:** 23210709 
+
 **Correo institucional:** l23210709@tectijuana.edu.mx
+
 **Carrera:** Ingeniería Biomédica  
-**Materia:** Modelado de Sistemas Fisiológicos  
+
+**Materia:** Modelado de Sistemas Fisiológicos 
+
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana
 
 **Profesor:** Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
